@@ -1,0 +1,13 @@
+右图是哪个语言的Logo?<br>   A.C<br>   B.Java<br>   C.PHP<br>   D.VB#D#java.jpg
+右图是哪个数据库的Logo?<br>   A.MySQL<br>   B.Oracle<br>   C.SqlServer<br>   D.DB2#A#mysql.jpg
+右图是哪个服务器的Logo?<br>   A.JBoss<br>   B.Oracle<br>   C.Jetty<br>   D.Tomcat#D#tomcat.jpg
+以下哪个是Java的基本数据类型？ <br>   A.String<br>   B.Integer<br>   C.boolean<br>   D.Math#C
+以下那个是Java的引用类型？<br>   A.String<br>   B.int<br>   C.boolean<br>   D.char#A
+以下不是Object类中的方法？<br>   A.equals<br>   B.hashCode<br>   C.toString<br>   D.compareTo#D
+以下哪个不是String类中的方法？<br>   A.charAt<br>   B.reverse<br>   C.replace<br>   D.indexOf#B
+以下那个不是Java中的非法标识？<br>   A.variable<br>   B.variable2<br>   C.%variable<br>   D._variable#C
+以下哪个是用于编译Java文件的？<br>   A.javac<br>   B.java<br>   C.path<br>   D.classPath#A
+经过编译后形成的文件的后缀名？<br>   A..mp3<br>   B..bat<br>   C..class<br>   D..java#C
+未编译之前的源文件的后缀名？<br>   A..bat<br>   B..class<br>   C..mp4<br>   D..java#D
+下面哪个选项是Key-values形式的？<br>   A.ArrayList<br>   B.HashMap<br>   C.LinkList<br>   D.Vector#B
+在Java中JVM首先会执行以下哪个线程？<br>   A.GB垃圾回收<br>   B.用户线程<br>   C.守护线程<br>   D.系统线程#D
