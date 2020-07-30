@@ -1,1 +1,4 @@
-# MyFirstSource
+# Java在线考试系统
+1.使用Java原生API进行界面的编写</br>
+2.使用IO流实现题目的读取和存储</br>
+3.使用MySql来存储用户数据和题目数据</br>
